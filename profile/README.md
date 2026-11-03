@@ -15,6 +15,13 @@
 | [**Launcher**](https://github.com/Project-Chronicles-Emulator/launcher) | Player desktop interface, client selection and startup |
 | [**Admin**](https://github.com/Project-Chronicles-Emulator/admin) | Operator desktop console and server management |
 
+## Research tools
+
+- [SDK generator](https://github.com/Project-Chronicles-Emulator/sdk-generator): generate your own reflection/C++/Lua SDK from a compatible local client.
+- [Asset extractor](https://github.com/Project-Chronicles-Emulator/asset-extractor): extract your own archives and prepare verified catalogs.
+
+Both repositories contain project source and guides only, with no game files, generated game exports or keys.
+
 ## Start with a clear path
 
 - **Run locally:** follow the [four-component setup](https://github.com/Project-Chronicles-Emulator/game-server/blob/main/docs/guides/getting-started.md).
