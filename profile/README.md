@@ -6,6 +6,11 @@
 
 <p align="center"><a href="https://github.com/Project-Chronicles-Emulator/game-server#readme"><b>Project home</b></a> · <a href="https://github.com/Project-Chronicles-Emulator/game-server/blob/main/docs/guides/getting-started.md"><b>Get running</b></a> · <a href="https://github.com/Project-Chronicles-Emulator/game-server/blob/main/docs/progress.md"><b>Feature progress</b></a> · <a href="https://github.com/Project-Chronicles-Emulator/game-server/blob/main/CONTRIBUTING.md"><b>Contribute</b></a></p>
 
+## Development Discord
+
+Join the [Project Chronicles development Discord](https://discord.gg/p78x39XTtf)
+to discuss emulator development, reverse engineering, bug reports and contributions.
+
 ## Choose your project
 
 | Component | Responsibility |
